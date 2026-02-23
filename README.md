@@ -731,12 +731,12 @@ Under these conditions:
 
 ## 📬 Contact & Connect
 
-**Author:** Afi
+**Author:** stella tenuda
 - 📧 Email: aficlair62@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+- 💼 LinkedIn:www.linkedin.com/in/afi-tenuda-eklou
 
-**Project Link:** https://github.com/yourusername/pharmacy-performance-dashboard
+
+**Project Link:**https://app.powerbi.com/groups/me/reports/ebf8372c-7e24-4846-8389-ea5ac3fc27dd/934937600b0b12b94200?experience=power-bi&bookmarkGuid=cc73765ab02d72243547
 
 ---
 
