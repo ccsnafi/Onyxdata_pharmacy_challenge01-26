@@ -8,7 +8,6 @@
 > Interactive Power BI dashboard analyzing 120 pharmacies across 8 European countries, delivering €280K+ in identified business opportunities through data-driven insights.
 
 ---
-
 ## 📊 Project Overview
 
 This comprehensive analytics dashboard was developed as part of the **DataDNA Challenge** to transform raw pharmacy sales data into strategic business intelligence. The solution addresses critical challenges in retail pharmacy operations through interactive visualizations, automated insights, and multi-level drill-down capabilities.
@@ -137,7 +136,9 @@ A European pharmacy network operating 120 stores across 8 countries was struggli
 - Interactive cross-filtering
 
 **Use Case:** Quick daily performance check, executive briefings
-
+<div align="center">
+  <img src="screenshot/OVERVIEW.png" alt="Overview Page" />
+</div>
 ---
 
 ### Page 2: Product Analytics
@@ -158,7 +159,9 @@ A European pharmacy network operating 120 stores across 8 countries was struggli
 **Technical Highlight:** Multi-level drill-down enables exploration from strategic category view to granular product-level analysis in a single visual
 
 **Use Case:** Product assortment decisions, pricing strategy, margin optimization
-
+<div align="center">
+  <img src="screenshot/PRODUCT.png" alt="Product Page" />
+</div>
 ---
 
 ### Page 3: Geographic Analytics
@@ -176,7 +179,9 @@ A European pharmacy network operating 120 stores across 8 countries was struggli
 - Geographic insights highlighting growth vs decline
 
 **Use Case:** Geographic expansion planning, store performance benchmarking, market prioritization
-
+<div align="center">
+  <img src="screenshot/GEOGRAPHIE.png" alt="GEOGRAPHIC Page" />
+</div>
 ---
 
 ### Page 4: User Guide
@@ -190,7 +195,9 @@ A European pharmacy network operating 120 stores across 8 countries was struggli
 - Troubleshooting tips
 
 **Use Case:** Onboarding new users, reducing support requests
-
+<div align="center">
+  <img src="screenshot/HELP.png" alt="Help Page" />
+</div>
 ---
 
 ## 🛠️ Tools & Technologies
